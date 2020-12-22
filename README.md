@@ -19,15 +19,15 @@ In order to build and run the app, you have to execute only 2 NPM script command
 
 Install node package dependencies:
 
-`$ yarn`
+`$ npm install`
 
 Build:
 
-`$ yarn run build`
+`$ npm run build`
 
 Run ExpressJS server:
 
-`$ yarn start`
+`$ npm start`
 
 ## Recommendation
 
